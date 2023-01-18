@@ -1,3 +1,3 @@
-<h1>Teste o poder da mente</h1>
-<h1>{{ $p1 }}</h1>
-<h1>{{ $p2 }}</h1>
+P1 = {{ $xyz }}
+<br />
+P1 = {{ $zzz }}
